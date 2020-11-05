@@ -1,0 +1,1 @@
+print([1,'b','r',1,1,'a',0,11].count(1)) # count permet de compter le nombre de fois qu'une lettre ou un chifre sort dans une chaine de caractere 

@@ -1,0 +1,1 @@
+print(max('abcdabcdabc')) # max permet de montre la lettre dans la chaine de carractere qui est la plus eloigné dans l'alphabet.

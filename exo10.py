@@ -1,0 +1,1 @@
+print ("hello".count('l')) # count permet savoir le nombre de fois qu'il y a le caractere choisie dzans le print

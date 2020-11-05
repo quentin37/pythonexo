@@ -1,0 +1,1 @@
+print([1,'b','r',1,1,'a',0,11].index('r')) # la fonction index indique l'emplacement de la lettre chifre rechercher 

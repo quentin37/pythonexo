@@ -1,0 +1,1 @@
+print(len('hello')) # la fonction len compte le nombre de lettre ici 5.
